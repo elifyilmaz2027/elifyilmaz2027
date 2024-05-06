@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **elifyilmaz2027/elifyilmaz2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello, I am Elif Yılmaz! 👋
+
+I am a PhD student in Computer Science at the University of Neuchatel, Switzerland.
+
+I received my BSc degree in Primary Mathematics Education and my MSc degree in Computational Science and Engineering from Boğaziçi University, Turkey. My master’s thesis was about “[Short-term Forecast Methodologies](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=qVqOZFj2DwNmvdf1oGFYiNVa87wIIBf5zByl7jQFtF29p6cfiQrQFFbSu-EjVTEn)” on large traffic flow datasets. 
+
+Moreover, I worked as a machine learning engineer and a data scientist on the various projects concerning subjects such as image processing, machine learning, deep learning, and natural language processing.
+
+⭐️ How to reach me: elifyilmaz2027@gmail.com 
