@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I am a PhD student in Computer Science at the University of Neuchatel, Switzerland.
 
-I received my BSc degree in Primary Mathematics Education and my MSc degree in Computational Science and Engineering from Boğaziçi University, Turkey. My master’s thesis was about “[Short-term Forecast Methodologies](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=qVqOZFj2DwNmvdf1oGFYiNVa87wIIBf5zByl7jQFtF29p6cfiQrQFFbSu-EjVTEn)” on large traffic flow datasets. 
+I received my BSc degree in Primary Mathematics Education and my MSc degree in Computational Science and Engineering from Boğaziçi University, Turkey. My master’s thesis was about [Short-term Forecast Methodologies and Case Studies in Traffic Flow](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=qVqOZFj2DwNmvdf1oGFYiNVa87wIIBf5zByl7jQFtF29p6cfiQrQFFbSu-EjVTEn).
 
 Moreover, I worked as a machine learning engineer and a data scientist on the various projects concerning subjects such as image processing, machine learning, deep learning, and natural language processing.
 
-⭐️ How to reach me: elifyilmaz2027@gmail.com 
+✨ How to reach me: elif.yilmaz2027@gmail.com 
