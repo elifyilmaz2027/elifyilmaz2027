@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello, I am Elif Yılmaz! 👋
 
-I am a PhD candidate in Computer Science at the University of Neuchatel, Switzerland.
+I am a PhD candidate in Computer Science at the University of Neuchatel, Switzerland. I am mainly working on zero-sum games with bandit feedback. 
 
 I received my BSc degree in Primary Mathematics Education and my MSc degree in Computational Science and Engineering from Boğaziçi University, Turkey. My master’s thesis was about [Short-term Forecast Methodologies and Case Studies in Traffic Flow](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=qVqOZFj2DwNmvdf1oGFYiNVa87wIIBf5zByl7jQFtF29p6cfiQrQFFbSu-EjVTEn).
 
